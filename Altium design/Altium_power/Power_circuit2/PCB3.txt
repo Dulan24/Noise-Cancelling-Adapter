@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : C:\Users\Dulan Lokugeegana\Desktop\Dulan_Mora\Acadamics\sem4\EN2160_electronic_design_realization\project\PCB\Altium_power\Power_circuit2\PCB3.PcbDoc
+Date         : 23-Jul-23
+Time         : 8:03:48 AM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 57mmx43mm
+    Components on board, 20
+count : 2

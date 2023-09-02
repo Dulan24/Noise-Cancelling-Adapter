@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=Netr4_1 Pin=r6-1
+Change Component Comment : Designator=vr4 Old Comment=3296W-1-250 New Comment=3k
+Change Component Comment : Designator=vr8 Old Comment=3296W-1-250 New Comment=3k
+Change Component Comment : Designator=vr1 Old Comment=3296W-1-250 New Comment=5k
+Change Component Comment : Designator=vr2 Old Comment=3296W-1-250 New Comment=5k
+Change Component Comment : Designator=vr5 Old Comment=3296W-1-250 New Comment=5k
+Change Component Comment : Designator=vr6 Old Comment=3296W-1-250 New Comment=5k
+Change Component Comment : Designator=vr3 Old Comment=3296W-1-250 New Comment=500k
+Change Component Comment : Designator=vr7 Old Comment=3296W-1-250 New Comment=500k
+Added Pin To Net: NetName=+Power Pin=Lmic-3
+Added Pin To Net: NetName=Netr4_1 Pin=r6-2
+Added Pin To Net: NetName=+Power Pin=Rmic-3
+Change Net Name : Old Net Name=Netr7_1 New Net Name=R_music_in
+Change Net Name : Old Net Name=Netr8_2 New Net Name=R_music_inverted
+Change Net Name : Old Net Name=Netr9_1 New Net Name=L_music_in
+Change Net Name : Old Net Name=Netr10_2 New Net Name=L_music_inverted
+Change Net Name : Old Net Name=Netr13_2 New Net Name=L_OUT
+Change Net Name : Old Net Name=Netr16_2 New Net Name=R_OUT
+Change Net Name : Old Net Name=NettoComputer_1 New Net Name=button
+Change Net Name : Old Net Name=NetU1_1 New Net Name=L_APF_OUTPUT
+Change Net Name : Old Net Name=NetU2_1 New Net Name=R_APF_OUTPUT
+Added Pin To Net: NetName=Netr6_1 Pin=r6-1
+Added Pin To Net: NetName=Netr6_1 Pin=vr8-2
+Added Net: Name=Netr6_1

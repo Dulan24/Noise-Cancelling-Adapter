@@ -1,0 +1,2 @@
+Change Component Designator: OldDesignator=power_button NewDesignator=b1
+Change Net Name : Old Net Name=NetIN1_1 New Net Name=Netb1_2

@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=+power Pin=VR1-1
+Removed Pin From Net: NetName=NetR2_2 Pin=VR2-1
+Removed Pin From Net: NetName=feedback Pin=VR2-2
+Removed Pin From Net: NetName=feedback Pin=VR3-2
+Removed Pin From Net: NetName=NetR4_2 Pin=VR3-3
+Change Component Footprint: Designator=VR1 Old Footprint=BOUR-3296W New Footprint=TRIM_3296W-1-250
+Change Component Footprint: Designator=VR2 Old Footprint=BOUR-3296W New Footprint=TRIM_3296W-1-250
+Change Component Footprint: Designator=VR3 Old Footprint=BOUR-3296W New Footprint=TRIM_3296W-1-250
+Change Component Comment : Designator=VR1 Old Comment=3296W-1-103LF New Comment=3296W-1-250
+Change Component Comment : Designator=VR2 Old Comment=3296W-1-103LF New Comment=3296W-1-250
+Change Component Comment : Designator=VR3 Old Comment=3296W-1-103LF New Comment=3296W-1-250
+Change Managed Component Library Link : Designator=VR1 Old VaultGUID=AF2B8E7F-053E-413E-AD39-CB011EE39B32 New VaultGUID= Old ItemGUID=3EAFA5FB-60FB-46D3-8F0B-A9234D19FA8D New ItemGUID= Old RevisionGUID=AB6AC043-28ED-47A0-99D8-FC3503D070A7 New RevisionGUID=
+Change Managed Component Library Link : Designator=VR2 Old VaultGUID=AF2B8E7F-053E-413E-AD39-CB011EE39B32 New VaultGUID= Old ItemGUID=3EAFA5FB-60FB-46D3-8F0B-A9234D19FA8D New ItemGUID= Old RevisionGUID=AB6AC043-28ED-47A0-99D8-FC3503D070A7 New RevisionGUID=
+Change Managed Component Library Link : Designator=VR3 Old VaultGUID=AF2B8E7F-053E-413E-AD39-CB011EE39B32 New VaultGUID= Old ItemGUID=3EAFA5FB-60FB-46D3-8F0B-A9234D19FA8D New ItemGUID= Old RevisionGUID=AB6AC043-28ED-47A0-99D8-FC3503D070A7 New RevisionGUID=
+Change component parameters: Designator = "VR1" ("VR1"); Footprint = "BOUR-3296W"; UniqueID = "\SQAUQUTC" ("\SQAUQUTC")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/3296W-1-250/Bourns/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "3296W-1-250"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "NON STANDARD-3 Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/3296W-1-250/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/3296W-1-250/Bourns/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "VR2" ("VR2"); Footprint = "BOUR-3296W"; UniqueID = "\DCLPNXXH" ("\DCLPNXXH")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/3296W-1-250/Bourns/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "3296W-1-250"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "NON STANDARD-3 Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/3296W-1-250/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/3296W-1-250/Bourns/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "VR3" ("VR3"); Footprint = "BOUR-3296W"; UniqueID = "\KJXHAWSH" ("\KJXHAWSH")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/3296W-1-250/Bourns/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "3296W-1-250"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "NON STANDARD-3 Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/3296W-1-250/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/3296W-1-250/Bourns/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR2_2 Pin=VR2-2
+Added Pin To Net: NetName=feedback Pin=VR2-3
+Added Pin To Net: NetName=NetR4_2 Pin=VR3-2
+Added Pin To Net: NetName=feedback Pin=VR3-3
